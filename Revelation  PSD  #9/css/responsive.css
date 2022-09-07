@@ -1,0 +1,16 @@
+@media only screen and (min-width:200px)and (max-width:991px){
+    .mobile-menu span {display: block;}
+    .top_menu ul{display: none;}
+	.child_hero { width: 48%;}
+	.hero_image img { width: 15rem;}
+	.child_work { width: 40%; text-align: center; margin-left: 8%;}
+	.child_contact { width: 48%;}
+	.child_contact form input { width: 80%;}
+	
+}
+
+@media only screen and (min-width:200px)and (max-width:480px){
+	.child_comment,.child_hero,.child_work,.child_contact { width: 100%; text-align: center;margin-left: 0;}
+	
+}
+
